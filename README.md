@@ -1,4 +1,5 @@
-# work_dashboard
+# work_dashboard 
+   ###built in vuejs vuetify and firebase
 
 ## Project setup
 ```
