@@ -1,5 +1,5 @@
 # work_dashboard 
-   ###built in vuejs vuetify and firebase
+  built in vuejs vuetify and firebase
 
 ## Project setup
 ```
