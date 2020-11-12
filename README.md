@@ -1,4 +1,4 @@
-# todo-ninja
+# work_dashboard
 
 ## Project setup
 ```
